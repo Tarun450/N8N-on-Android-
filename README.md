@@ -365,7 +365,7 @@ The integration was not successfully completed, but the process provided valuabl
 ### Workflow Execution
 
 ```markdown
-![Workflow Running](screenshots/workflow-running.png)
+![Workflow Running]Screenshot_2026-06-11-11-31-42-114_com.android.chrome.jpg
 ```
 
 ## 📦 Example Workflows

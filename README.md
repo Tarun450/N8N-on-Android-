@@ -353,7 +353,7 @@ The integration was not successfully completed, but the process provided valuabl
 ### Termux Installation
 
 ```markdown
-![Termux Setup](screenshots/termux-installation.png)
+!Screenshot_2026-06-11-11-30-47-314_com.termux.jpg
 ```
 
 ### n8n Dashboard

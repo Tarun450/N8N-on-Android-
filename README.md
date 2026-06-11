@@ -358,8 +358,8 @@ The integration was not successfully completed, but the process provided valuabl
 
 ### n8n Dashboard
 
-```markdown
-![n8n Dashboard](screenshots/n8n-dashboard.png)
+```markdownScreenshot_2026-06-11-11-31-25-219_com.android.chrome.jpg
+![n8n Dashboard]
 ```
 
 ### Workflow Execution
